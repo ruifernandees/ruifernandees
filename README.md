@@ -1,4 +1,6 @@
-### Hi there 👋
+### ☕ Hi, I'm a Web Developer, focused on PHP and React.js, and a Computer Science student at Federal University of Alagoas
+### Personal Website
+- You can see my work on https://ruifernandes.dev too.
 
 <!--
 **ruifernandees/ruifernandees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
