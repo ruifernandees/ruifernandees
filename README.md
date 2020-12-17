@@ -11,11 +11,6 @@
 - [Projeto TATU](https://projetotatu.com.br) (Voluteering)
 - [Eficaz Exatas](https://eficazexatas.com) (Co-founder)
 
-### ⭐ Highlighted repositories
-- [Asking The Dev](https://github.com/ruifernandees/asking-the-dev)
-- [FisherApp](https://github.com/ruifernandees/fisherapp)
-- [CSV/JSON Converter](https://github.com/ruifernandees/csv-json-converter)
-
 ### 📨 Contact-me
 - E-mail: dev.ruifernandes@gmail.com
 <!--
