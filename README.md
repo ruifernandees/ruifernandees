@@ -1,4 +1,4 @@
-## Rui Fernandes
+# Rui Fernandes
 
 ### ☕ I'm a:
 - Web Developer, focused on PHP and React.js
