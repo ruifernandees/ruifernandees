@@ -1,6 +1,6 @@
 ## Rui Fernandes
 
-### ☕ I'm a:
+### ☕ Hi! I'm a
 - Web Developer, focused on PHP and React.js
 - Computer Science student at [Federal University of Alagoas](https://ufal.br)
 
