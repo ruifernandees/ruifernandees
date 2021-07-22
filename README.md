@@ -2,7 +2,7 @@
 
 ### ☕ Hi! I'm a
 - Web Developer, focused on PHP and React.js
-- Computer Science student at [Federal University of Alagoas](https://ufal.br)
+- Computer Science student at Federal University of Alagoas
 
 ### 🌐 Personal Website
 - You can see my work on https://ruifernandes.dev too.
