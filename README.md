@@ -7,10 +7,6 @@
 ### 🌐 Personal Website
 - You can see my work on https://ruifernandes.dev too.
 
-### 💼 I'm working on
-- [Projeto TATU](https://projetotatu.com.br) (Voluteering)
-- [Eficaz Exatas](https://eficazexatas.com) (Co-founder)
-
 ### 📨 Contact-me
 - E-mail: dev.ruifernandes@gmail.com
 
