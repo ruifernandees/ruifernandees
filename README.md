@@ -1,7 +1,7 @@
 ## Rui Fernandes
 
 ### ☕ Hi! I'm a
-- Web Developer, focused on PHP and React.js
+- Web Developer, focused on React.js, React Native, Node.js and PHP
 - Computer Science student at Federal University of Alagoas
 
 ### 🌐 Personal Website
