@@ -1,9 +1,10 @@
 ## Rui Fernandes
 
-### ☕ Hi! I'm a
-- Front-end Developer, focused on React.js;
-- Back-end Developer, focused on Node.js and PHP;
-- Mobile Developer, focused on React Native;
+### ☕ Hi! I'm a Full Stack Developer
+- I work with:
+    - React.js (Front-end);
+    - React Native (Mobile);
+    - Node.js and PHP (Back-end)
 - Computer Science student at Federal University of Alagoas.
 
 ### 🌐 Personal Website
