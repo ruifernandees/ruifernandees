@@ -1,6 +1,6 @@
 ## Rui Fernandes
 
-### ☕ Hi! I'm a Full Stack Developer
+### ☕ Hi! I'm a Full Stack Engineer
 - I work with:
     - React.js (Front-end);
     - React Native (Mobile);
