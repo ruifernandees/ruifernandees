@@ -5,7 +5,9 @@
     - React.js (Front-end);
     - React Native (Mobile);
     - Node.js and PHP (Back-end)
-- Computer Science student at Federal University of Alagoas.
+    - Python (AI and Data Science)
+- Full Stack Engineer @ Ubelix
+- Data Science Researcher @ UFAL
 
 ### 🌐 Personal Website
 - You can see my work on https://ruifernandes.dev too.
