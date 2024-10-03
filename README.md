@@ -6,8 +6,6 @@
     - React Native (Mobile);
     - Node.js and PHP (Back-end)
     - Python (AI and Data Science)
-- Full Stack Engineer @ Ubelix
-- Data Science Researcher @ UFAL
 
 ### 🌐 Personal Website
 - You can see my work on https://ruifernandes.dev too.
